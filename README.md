@@ -1,6 +1,6 @@
 # Synthetic Model Color Calculations for 2MASS, Spitzer, and WISE
 
-This program calculates stellar-model fluxes and magnitudes *I BELIEVE AT THE SURFACE OF THE STAR* for
+This program calculates stellar-model fluxes and magnitudes (I BELIEVE AT THE SURFACE OF THE STAR) for
 2MASS, Spitzer, and WISE bands, then records the results in a CSV file.
 
 Intended for color calculations, hence disregard for distance/flux normalization.
